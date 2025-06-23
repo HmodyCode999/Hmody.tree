@@ -1,3 +1,5 @@
+> 💡 This project was built to practice modern web development techniques and create a personalized alternative to existing LinkTree services.
+
 # 🌐 Hmody LinkTree
 
 A modern, glassmorphism-styled personal LinkTree alternative that brings all your social media profiles together in one beautiful, responsive page!
@@ -146,8 +148,6 @@ Customize colors in `page/style.css`:
 - [ ] **🎭 Animation Library**: Enhanced micro-interactions
 
 ## 🎓 Learning Journey
-
-> 💡 This project was built to practice modern web development techniques and create a personalized alternative to existing LinkTree services.
 
 **Skills Developed:**
 - Advanced CSS styling and effects
